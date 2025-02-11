@@ -84,7 +84,7 @@ ls -ld /opt/projekti
 ```
 Output shows:
 ```
-drwxrws--- 2 root projekti 4096 Feb  5 09:32 /opt/projekti/
+drwxrws--- 2 root projekti 4096 Feb 11 09:18 /opt/projekti
 ```
 __This confirms:__
 
